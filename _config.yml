@@ -95,7 +95,7 @@ service-worker: true
 
 
 # Recommend Tool
-friends: [
+Tool Recommend: [
     {
         title: "midjourney",
         href: "https://www.midjourney.com/"
