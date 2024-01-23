@@ -20,4 +20,7 @@ tags:
     ***
 ###当前进度
 自学markdown语言中
-先来插入一个图片先  ![]
+先来插入一个图片先 
+>成功了！喔耶！
+
+![](https://raw.githubusercontent.com/bellakeeplearning/Bellaimagebed/main/img/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20240123111809.jpg)
