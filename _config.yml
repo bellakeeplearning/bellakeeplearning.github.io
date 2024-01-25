@@ -66,7 +66,7 @@ gitalk:
   clientSecret: 4f488c3411fe6f9fbf8fe0d97be5d6c50871f597    #生成的clientSecret
   repo: bellakeeplearning.github.io    #仓库名称
   owner: bellakeeplearning    #github用户名
-  admin: bellaL
+  admin: bellakeeplearning
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 
