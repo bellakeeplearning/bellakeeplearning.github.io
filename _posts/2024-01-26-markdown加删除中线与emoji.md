@@ -10,24 +10,29 @@ tags:
     - mardown学习
     - markdown加中划线
     - mardown加emoji
+    - markdown给文字加高亮效果
 ---
 
-***
+<!-- This text will not appear in the browser window. -->
 
-### Markdown学习
+# Markdown学习
 >小白持续学习中
 
 ~~这是一篇水文，因为刚学了新的用法，必须要嘚瑟一下hiahiahia~~:smirk:
 
-**中划线用法:**
+## **中划线用法:**
 
 ```
 ~~在文字两侧添加双波浪号即可~~
 ```
-**附加一个bonus**
+## **添加Emoji方法**
 [emoji用法](https://gist.github.com/rxaviers/7360908)
 
 *比心心*:heart:
+
+## 官方markdown拓展语法
+
+[链接](https://markdown.com.cn/extended-syntax/emoji.html)
 
 ***
 The End
