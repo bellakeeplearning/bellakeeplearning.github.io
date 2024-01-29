@@ -7,9 +7,9 @@ author:     Bella.learning
 header-img: img/post-bg-universe.jpg
 catalog: true
 tags:
-    - mardown学习
+    - markdown学习
     - markdown加中划线
-    - mardown加emoji
+    - markdown加emoji
     - markdown给文字加高亮效果
 ---
 
