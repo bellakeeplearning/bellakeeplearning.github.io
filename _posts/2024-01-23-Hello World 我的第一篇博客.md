@@ -19,7 +19,7 @@ tags:
 这里附上老师手把手教学的[教程链接](https://github.com/qiubaiying/qiubaiying.github.io/wiki/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA%E8%AF%A6%E7%BB%86%E6%95%99%E7%A8%8B)
     ***
 ### 当前进度
-自学markdown语言中, 附上[链接]（https://markdown.com.cn/basic-syntax/）
+自学markdown语言中, 附上[链接](https://markdown.com.cn/basic-syntax/)
 先来插入一个图片先 
 >成功了！喔耶！
 
