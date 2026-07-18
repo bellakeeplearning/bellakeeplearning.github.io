@@ -19,8 +19,8 @@ tags:
 这里附上老师手把手教学的[教程链接](https://github.com/qiubaiying/qiubaiying.github.io/wiki/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA%E8%AF%A6%E7%BB%86%E6%95%99%E7%A8%8B)
     ***
 ### 当前进度
-自学markdown语言中
+自学markdown语言中, 附上[链接]（https://markdown.com.cn/basic-syntax/）
 先来插入一个图片先 
 >成功了！喔耶！
 
-![](https://raw.githubusercontent.com/bellakeeplearning/Bellaimagebed/main/img/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20240123111809.jpg)
+![插入图片](https://raw.githubusercontent.com/bellakeeplearning/Bellaimagebed/main/img/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20240123111809.jpg)
